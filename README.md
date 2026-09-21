@@ -7,3 +7,5 @@
                                    |_|  |_|_|_| |_|\__,_|_|\__\__,_| |_|  \___|_|  \___|_| |_|\__|
                                                                                                   
 ```
+
+#3nd Year Computer Science Student @ ISCTE
