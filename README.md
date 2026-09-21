@@ -1,11 +1,1 @@
-
-                 __  __ _ _           _ _          ______                  _   
-                |  \/  (_) |         (_) |        |  ____|                | |  
-                | \  / |_| |__   __ _ _| |_ __ _  | |__ ___ _ __ ___ _ __ | |_ 
-                | |\/| | | '_ \ / _` | | __/ _` | |  __/ _ \ '__/ _ \ '_ \| __|
-                | |  | | | | | | (_| | | || (_| | | | |  __/ | |  __/ | | | |_ 
-                |_|  |_|_|_| |_|\__,_|_|\__\__,_| |_|  \___|_|  \___|_| |_|\__|
-                                                                                                  
-
-
-# 🎓 3rd Year Computer Science Student @ ISCTE
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A0d0d0d%2C50%3A0d1f17%2C100%3A00e676&section=header&reversal=false&text=Mihaita+Ferent&textBg=false&fontColor=FFFFFF&fontSize=65&fontAlign=50&fontAlignY=33&animation=fadeIn&rotate=0&strokeWidth=0&desc=2nd+year+student+%40+ISCTE+%E2%80%A2+AI+Enthusiast&descSize=35&descAlign=50&descAlignY=60">
