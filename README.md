@@ -8,4 +8,4 @@
                                                                                                   
 
 
-# 3rd Year Computer Science Student @ ISCTE
+# 🎓 3rd Year Computer Science Student @ ISCTE
